@@ -4,4 +4,5 @@ From :cn:, currently living at :us:
 
 :link: [https://old-panda.com/](https://old-panda.com/)
 
-![OldPanda's github stats](https://github-readme-stats.vercel.app/api?username=OldPanda)
+![OldPanda's github stats](https://github-readme-stats.vercel.app/api?username=OldPanda)   
+Statistic provided by https://github.com/anuraghazra/github-readme-stats
